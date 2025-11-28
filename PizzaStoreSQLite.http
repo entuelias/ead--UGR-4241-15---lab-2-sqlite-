@@ -1,0 +1,6 @@
+@PizzaStoreSQLite_HostAddress = http://localhost:5232
+
+GET {{PizzaStoreSQLite_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
