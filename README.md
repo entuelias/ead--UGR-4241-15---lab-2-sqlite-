@@ -18,5 +18,5 @@ This is Part 2 of Lab 2 (separate from the In-Memory version).
 
 1. Clone the repo:
    ```bash
-   git clone <repo_url>
+   git clone <https://github.com/entuelias/ead--UGR-4241-15---lab-2-sqlite->
    cd PizzaStoreSQLite
